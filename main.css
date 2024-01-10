@@ -1,0 +1,28 @@
+#rank {
+    border-color: orange blue;
+    background-color:transparent;
+  }
+th{
+border-color: orange;
+border-style: solid;
+}
+#return {
+  border: 3px solid green;
+}
+#returnContainer{
+  text-align: end;
+}
+#startContainer{
+  text-align: center;
+}
+body{
+min-width: 100%;
+min-height: 100%;
+background-image: url('https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/di3a2-ACJM5H51YKB-Full-Image_GalleryBackground-en-US-1489722831648._SX1080_.jpg'); 
+;
+background-size: auto 100%;
+}
+html {height:100%} 
+h2{
+  font-family: 'Rampart One', cursive;
+}
